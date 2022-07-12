@@ -1,0 +1,10 @@
+C:\2021\C#Project\RandomaizerMk1\bin\Debug\RandomaizerMk1.exe.config
+C:\2021\C#Project\RandomaizerMk1\bin\Debug\RandomaizerMk1.exe
+C:\2021\C#Project\RandomaizerMk1\bin\Debug\RandomaizerMk1.pdb
+C:\2021\C#Project\RandomaizerMk1\obj\Debug\RandomaizerMk1.csproj.AssemblyReference.cache
+C:\2021\C#Project\RandomaizerMk1\obj\Debug\RandomaizerMk1.Form1.resources
+C:\2021\C#Project\RandomaizerMk1\obj\Debug\RandomaizerMk1.Properties.Resources.resources
+C:\2021\C#Project\RandomaizerMk1\obj\Debug\RandomaizerMk1.csproj.GenerateResource.cache
+C:\2021\C#Project\RandomaizerMk1\obj\Debug\RandomaizerMk1.csproj.CoreCompileInputs.cache
+C:\2021\C#Project\RandomaizerMk1\obj\Debug\RandomaizerMk1.exe
+C:\2021\C#Project\RandomaizerMk1\obj\Debug\RandomaizerMk1.pdb
